@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with System Programming
 - 💬 Ask me about low level programming : C++, python
 - 📫 How to reach me: prajaktabadgujar2281@gmail.com
-- 😄 Pronouns: she/her/ti
+- 😄 Pronouns: she/her/hers
 
